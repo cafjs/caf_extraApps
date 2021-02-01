@@ -1,0 +1,9 @@
+[submodule "caf_hellodiffie"]
+	path = caf_hellodiffie
+	url = ../caf_hellodiffie
+[submodule "caf_hellodynamic"]
+	path = caf_hellodynamic
+	url = ../caf_hellodynamic
+[submodule "caf_hellosleepy"]
+	path = caf_hellosleepy
+	url = ../caf_hellosleepy
