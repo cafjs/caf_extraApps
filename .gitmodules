@@ -10,3 +10,9 @@
 [submodule "caf_hellolambda"]
 	path = caf_hellolambda
 	url = ../caf_hellolambda
+[submodule "caf_helloiot"]
+	path = caf_helloiot
+	url = ../caf_helloiot
+[submodule "caf_bodysnatcherlite"]
+	path = caf_bodysnatcherlite
+	url = ../caf_bodysnatcherlite
